@@ -1,1 +1,1 @@
-# Natural-Languadge-Processing
+# Natural-Language-Processing
